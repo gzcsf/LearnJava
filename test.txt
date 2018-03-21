@@ -3,3 +3,4 @@ I am old Men;
 I am 45.
 Are you sure you want to continue connecting (yes/no)?
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
